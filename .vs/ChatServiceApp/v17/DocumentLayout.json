@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaan\\source\\repos\\C#\\ChatServiceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3DF4B2-60CA-4F34-87F5-3B634485BEA0}|ChatServiceApp\\ChatServiceApp.csproj|c:\\users\\kaan\\source\\repos\\c#\\chatserviceapp\\chatserviceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3DF4B2-60CA-4F34-87F5-3B634485BEA0}|ChatServiceApp\\ChatServiceApp.csproj|solutionrelative:chatserviceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C3DF4B2-60CA-4F34-87F5-3B634485BEA0}|ChatServiceApp\\ChatServiceApp.csproj|c:\\users\\kaan\\source\\repos\\c#\\chatserviceapp\\chatserviceapp\\backgroundservices\\receivemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C3DF4B2-60CA-4F34-87F5-3B634485BEA0}|ChatServiceApp\\ChatServiceApp.csproj|solutionrelative:chatserviceapp\\backgroundservices\\receivemessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReceiveMessages.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\ChatServiceApp\\ChatServiceApp\\BackgroundServices\\ReceiveMessages.cs",
+              "RelativeDocumentMoniker": "ChatServiceApp\\BackgroundServices\\ReceiveMessages.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\ChatServiceApp\\ChatServiceApp\\BackgroundServices\\ReceiveMessages.cs",
+              "RelativeToolTip": "ChatServiceApp\\BackgroundServices\\ReceiveMessages.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:33:25.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaan\\source\\repos\\C#\\ChatServiceApp\\ChatServiceApp\\Program.cs",
+              "RelativeDocumentMoniker": "ChatServiceApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaan\\source\\repos\\C#\\ChatServiceApp\\ChatServiceApp\\Program.cs",
+              "RelativeToolTip": "ChatServiceApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:12:03.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
